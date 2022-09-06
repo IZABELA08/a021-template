@@ -1,0 +1,35 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+.cabecaEpe{
+    height: 40px;
+    padding: 10px;
+    color: white;
+}
+#cabeca{
+    background-color: orange;
+    border-bottom: 5px solid black;
+}
+#pe{
+    background-color: black;
+}
+main{
+    margin: 15px;
+    padding: 20px 30px 20px 30px;
+    min-width: 80vh;
+    width: 90vw;
+}
+article{
+    margin: 25px 25px;
+}
+h2{
+    font-family: Arial;
+}
+p{
+    font-family: Helvetica;
+}
+.destaque{
+    color: orange;
+}
